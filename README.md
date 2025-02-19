@@ -1,5 +1,4 @@
 # Repository-LaskarAI
-LaskarAI
 ==
 Ini adalah Repository Course Laskar AI
 --
