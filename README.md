@@ -1,5 +1,4 @@
 # Repository-LaskarAI
-==
 Ini adalah Repository Course Laskar AI
 --
 1. Belajar Dasar AI
